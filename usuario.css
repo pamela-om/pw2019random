@@ -1,0 +1,18 @@
+.error {
+    color: red;
+	font-size: 10px;
+}
+
+.cabecalho {
+	border-bottom: 10px solid #dc3545;
+}
+
+.container{
+	padding-top: 1rem;
+}
+
+.imagem{
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+}
